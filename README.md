@@ -20,10 +20,10 @@ Aplicación web creada con React donde se trabaja con redireccionamiento de ruta
 </div>
 <br><br>
 
-<img src="https://github.com/erlisrivas/Pizzeria-react/blob/master/pizzeriaimg.png" width="400">
+<img src="https://github.com/erlisrivas/desafio-buscarPokemon/blob/master/imgpokemon.png" width="400">
 
 
-## [Ver aqui](https://pizzeria-mamma-mia.vercel.app/)
+## [Ver aqui](https://buscar-pokemon.vercel.app/)
 
 
 
