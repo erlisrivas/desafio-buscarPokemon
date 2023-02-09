@@ -5,7 +5,7 @@ Aplicación web creada con React donde se trabaja con redireccionamiento de ruta
 
 ### :Habilidades aplicadas:
 - *Se utilizó React Router para controlar rutas y redireccionamientos.*
-- *Se utilizó Context API almacenar y modificar el estado global.*
+- *Se utilizó Context API para almacenar y modificar el estado global.*
 - *Usar NavLink para definir una clase activa a la ruta que se esté visitando.*
 
 
