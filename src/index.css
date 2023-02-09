@@ -24,7 +24,18 @@ animation-name: slidein;
   font-weight: 800;
   font-size: 30px;
   text-decoration:none;
+  margin:1rem;
 }
+
+.noactive{
+  color: rgb(255, 239, 17);
+  -webkit-text-stroke: rgb(15, 55, 235) 1.5px;
+  font-weight: 600;
+  font-size: 30px;
+  text-decoration:none;
+  margin:1rem;
+}
+
 
 
 

@@ -10,9 +10,9 @@ const Navbars = () => {
         
           <Navbar.Brand><img src={pokelogo} width="150px"alt=""/></Navbar.Brand>
 
-          <div className="d-flex links">
-            <NavLink className = { ({ isActive }) => (isActive ? "active" : undefined)} to="/">Home</NavLink> 
-            <NavLink className = { ({ isActive }) => (isActive ? "active" : undefined)} to="/Pokemon">{"   "}Pokemon{"   "}</NavLink>
+          <div className="d-flex text-decoration-none">
+            <NavLink className ={ ({ isActive }) => (isActive ? "active" : "noactive")} exact to="/">Home{"       "}</NavLink> 
+            <NavLink className = { ({ isActive }) => (isActive ? "active" : "noactive")} exact to="/Pokemon">{"       "}Pokemon{"   "}</NavLink>
           </div>
        
       </Navbar>
