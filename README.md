@@ -1,6 +1,6 @@
 <h2>Buscar Pokemon</h2>
 
-Aplicación web creada con React donde se trabaja con redireccionamiento de rutas, obtención de parametros en una ruta y se aplica asignación de una clase activa a la ruta que se esté visitando.
+Aplicación web creada con React donde se trabaja con redireccionamiento de rutas, obtención de parametros en una ruta y se asigna una clase activa a la ruta que se esté visitando.
 
 
 ### :Habilidades aplicadas:
