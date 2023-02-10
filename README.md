@@ -23,7 +23,7 @@ Aplicación web creada con React donde se trabaja con redireccionamiento de ruta
 <img src="https://github.com/erlisrivas/desafio-buscarPokemon/blob/master/imgpokemon.png" width="400">
 
 
-## [Ver aqui](https://buscar-pokemon.vercel.app/)
+## [Ver aqui](https://buscar-pokemon-jitg.vercel.app/)
 
 
 
